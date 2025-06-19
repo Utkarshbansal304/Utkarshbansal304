@@ -19,7 +19,7 @@
 - **Finance:** DCF Valuation, Capital Budgeting, WACC, Scenario Planning
 - **Tech:** Advanced Excel • Python (Pandas, NumPy) • PowerPoint • Git
 - **Analytics:** Data Cleaning • Visualization • Dashboard Design
-- **Content Creation:** Filmora AI • Canva • YouTube SEO & Engagement
+
 
 ---
 
