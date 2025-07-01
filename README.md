@@ -11,21 +11,17 @@
 - **Loan Analysis for Lending Club:** End-to-end data analytics project using public Kaggle data, featuring dashboards and data storytelling.
 - **Citi Investment Banking Simulation (Forage):** M&A case study, company profiling, and financial modeling as a buyside analyst.
 
-📹 Outside of finance, I create AI-driven content for YouTube — blending spiritual storytelling, Bhagavad Gita insights, and animated humor for global audiences.
-
 ---
 
 ### 🧰 Skills & Tools:
 - **Finance:** DCF Valuation, Capital Budgeting, WACC, Scenario Planning
-- **Tech:** Advanced Excel • Python (Pandas, NumPy) • PowerPoint • Git
+- **Tech:** Advanced Excel • Python• PowerPoint • Git
 - **Analytics:** Data Cleaning • Visualization • Dashboard Design
 
 
 ---
 
 ### 🌱 Currently Learning:
-- Financial Statement Analysis
-- Investment Strategies
 - Data Science for Finance
 
 ---
@@ -35,4 +31,4 @@
 - **GitHub:** [Utkarshbansal304](https://github.com/Utkarshbansal304)
 - **Email:** utkarshbansal304@gmail.com
 
-📍 Based in India | Open to internships, remote collaborations, and project-based finance roles
+📍 Based in India | Open to internships, collaborations, and project-based finance and data analyst roles
